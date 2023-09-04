@@ -1,5 +1,4 @@
-```markdown
-# Google Cloud Data Engineering Challenge Lab #GS327
+## Google Cloud Data Engineering Challenge Lab #GS327
 
 This repository contains solutions for the Google Cloud Data Engineering Challenge Lab #GS327. The challenge focuses on data engineering tasks using Google Cloud Platform (GCP).
 
